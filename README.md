@@ -5,3 +5,5 @@ The "Generate New Array" as the name suggest generates a completely new and rand
 You can choose any of the provided sorting algorithm button to visualize its execution.
 It also shows the Space and Time complexity of the chosen Sorting algorithm during runtime.
 Note: The buttons wont be accesible while the algorithm is running.
+
+The link for the live version : https://krishipate.github.io/Sorting_visualizer/
